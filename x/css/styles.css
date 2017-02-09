@@ -1,0 +1,37 @@
+    .header p { 
+  background: #806c93;
+  padding: 20px;
+  margin: 0 0 22px 0;
+  color: white;
+  font-size: 18pt;
+  } 
+  
+  img {
+  width: 50px;
+  float: left;
+  position: relative;
+  top: 15px;
+  margin: 0 15px 0 15px;
+  }
+  
+  div {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 12pt;
+  ;
+}
+
+button {
+  position: center;
+  margin: 0 0 0 260px;
+}
+
+.colourBox {
+  height: 50px;
+  width: 50px;
+  background: #cc0066;
+  margin: 50px auto;
+  border-radius: 25px;
+}
